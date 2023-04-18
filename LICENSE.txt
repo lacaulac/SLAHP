@@ -1,0 +1,43 @@
+------------------------------------------------------------
+SOFTWARE EVALUATION LICENSE
+IRIT computer science research laboratory, Toulouse, France.
+------------------------------------------------------------
+
+Definitions
+SOFTWARE:  The SLAHP software, version 1.0, in source code form, written by Antonin VERDIER at the IRIT computer science research laboratory.
+
+LICENSOR: L’UNIVERSITE TOULOUSE III - PAUL SABATIER, a public scientific, cultural and professional establishment, having SIRET No. 193 113 842 00010, APE code 8542 Z, having its registered office at 118, route de Narbonne, 31062 Toulouse Cedex 9, France, acting in its own name and on its own behalf, and on behalf of l'Institut de Recherche en Informatique de Toulouse (IRIT), UMR N°5055.
+
+1. INTENT/PURPOSE 
+This agreement determines the conditions in which the LICENSOR, who has the rights to the SOFTWARE, grants to the LICENSEE a license for research and evaluation purposes only, excluding any commercial use.
+
+2. LICENSEE 
+Any person or organization who receives the SOFTWARE with a copy of this license. 
+
+3. RIGHTS GRANTED
+The rights to use and copy the SOFTWARE, subject to the restrictions described in this agreement.
+The rights to modify and compile the SOFTWARE when it's provided in source code form, subject to the restrictions described in this agreement. 
+For the SOFTWARE provided in binary form only, LICENSEE undertakes to not decompile, disassemble, decrypt, extract the components or perform reverse engineering except to the extent expressly provided by law.
+
+5. SCOPE OF THE LICENSE 
+- NON-COMMERCIAL license for research and evaluation purposes ONLY. 
+- NO right to commercialize the SOFTWARE, or any derivative work, without separate agreement with the LICENSOR. 
+
+6. MODIFICATION OF THE SOFTWARE
+License permits LICENSEE to modify the SOFTWARE provided in source code form for research and evaluation purposes only. 
+
+7. REDISTRIBUTION
+- License permits LICENSEE to redistribute verbatim copies of the SOFTWARE, accompanied with a copy of this license. 
+- License DOES NOT permit LICENSEE to redistribute modified versions of the SOFTWARE provided in source code form. 
+- License DOES NOT permit LICENSEE to commercialize the SOFTWARE or any derivative work of the SOFTWARE. 
+
+8. FEE/ROYALTY 
+- LICENSEE pays no royalty for this license. 
+- LICENSEE and any third parties must enter a new agreement for any use beyond scope of license. Please contact the IRIT technology transfer office (email numerique@toulouse-tech-transfer.com) for further information. 
+
+9. NO WARRANTY 
+The SOFTWARE is provided "as is" without warranty of any kind, either expressed or implied, including, but not limited to, the implied warranties of merchantability and fitness for a particular purpose. The entire risk as to the quality and performance of the program is with the LICENSEE. 
+
+10. NO LIABILITY
+In no event unless required by applicable law or agreed to in writing will any copyright owner be liable to LICENSEE for damages, including any general, special, incidental or consequential damages arising out of the use or inability to use the program (including but not limited to loss of data or data being rendered inaccurate or losses sustained by LICENSEE or third parties or a failure of the program to operate with other programs), even if such holder has been advised of the possibility of such damages. 
+
